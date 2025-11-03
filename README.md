@@ -2,10 +2,10 @@
 Hi! I'm Sunidhi, a Computer Engineering student at the New York University.
 
 - 💼 I was a Data Engineering Intern [@Meta](https://www.meta.com/) for Summer 2025 in Bay Area.
-  - During my internship, I worked for [@Facebook](https://www.facebook.com/), central growth team building AI systems that uncover critical user complaints and surface emerging trends using a variety of technologies including but not limited to Python, PHP, Langchain, Hive
+  - During my internship, I worked for [@Facebook](https://www.facebook.com/), Central Growth team building AI systems that uncover critical user complaints and surface emerging trends using a variety of technologies including but not limited to Python, PHP, Langchain, Hive
 
 - I also previously worked more than 2 years for [@ZS](https://www.zs.com/).
-    - During my indutry expereince I worked with Enterprise Services Center of Excellence team to build Data Management and NLP solutions for frotune 500 pharma 
+    - During my indutry expereince I worked with Enterprise Services Center of Excellence team to build Data Management and NLP solutions for fortune 500 pharma 
 - 🌱 I spend my free time working on personal projects and reading research paper!
 
 
