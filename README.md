@@ -2,8 +2,10 @@
 Hi! I'm Sunidhi, a Computer Engineering student at the New York University.
 
 - 💼 I was a Data Engineering Intern [@Meta](https://www.meta.com/) for Summer 2025 in Bay Area.
-  - During my internship, I worked for [@Facebook](https://fuego.io), central growth team building AI systems that uncover critical user complaints and surface emerging trends using a variety of technologies including but not limited to Python, PHP, Langchain, Hive
-  - I also previously worked more than 2 years for [@ZS](https://www.zs.com/).
+  - During my internship, I worked for [@Facebook](https://www.facebook.com/), central growth team building AI systems that uncover critical user complaints and surface emerging trends using a variety of technologies including but not limited to Python, PHP, Langchain, Hive
+
+- I also previously worked more than 2 years for [@ZS](https://www.zs.com/).
+    - During my indutry expereince I worked with Enterprise Services Center of Excellence team to build Data Management and NLP solutions for frotune 500 pharma 
 - 🌱 I spend my free time working on personal projects and reading research paper!
 
 
@@ -13,12 +15,10 @@ Hi! I'm Sunidhi, a Computer Engineering student at the New York University.
     <span><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch" /></span>
     <span><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow" /></span>
     <span><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-Learn" /></span>
-    <span><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45" alt="OpenCV" /></span>
     <span><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" /></span>
     <span><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn" /></span>
     <span><img src="https://www.langchain.com/favicon.ico" width="45" height="45" alt="LangChain" /></span>
     <span><img src="https://asset.brandfetch.io/id6a4s3gXI/idncpUsO_z.jpeg" width="45" height="45" alt="LlamaIndex" /></span>
-    <span><img src="https://dspy-docs.vercel.app/img/logo.png" width="45" height="45" alt="DSPy" /></span>
     <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" /></span>
     <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu" /></span>
     <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" /></span>
@@ -47,6 +47,6 @@ Hi! I'm Sunidhi, a Computer Engineering student at the New York University.
 
 <p align="center">
 
-![Snake animation](https://github.com/sunidhitandel/sunidhitandel/blob/main/assets/jkanishkha0305.svg)
+![Snake animation](https://github.com/sunidhitandel/sunidhitandel/blob/main/assets/sunidhi_contribution.svg)
 
 </p>
