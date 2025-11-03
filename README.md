@@ -7,7 +7,7 @@ Hi! I'm Sunidhi, a Computer Engineering student at the New York University.
 - I also previously worked more than 2 years for [@ZS](https://www.zs.com/).
     - During my indutry expereince I worked with Enterprise Services Center of Excellence team to build Data Management and NLP solutions for fortune 500 pharma 
 - 🌱 I spend my free time working on personal projects and reading research papers and implementing them often! 
-    - My most current list : ![collection of papers](https://www.notion.so/Collection-of-research-2a03877c251480318177fbb7e837b7e3?source=copy_link)
+    - My most current list : [collection of papers](https://www.notion.so/Collection-of-research-2a03877c251480318177fbb7e837b7e3?source=copy_link)
 
 
 ## Skills
