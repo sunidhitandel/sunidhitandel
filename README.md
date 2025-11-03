@@ -1,4 +1,6 @@
-## Intro
+## Sunidhi Tandel
+
+
 Hi! I'm Sunidhi, a Computer Engineering student at the New York University.
 
 - 💼 I was a Data Engineering Intern [@Meta](https://www.meta.com/) for Summer 2025 in Bay Area.
@@ -9,6 +11,19 @@ Hi! I'm Sunidhi, a Computer Engineering student at the New York University.
 - 🌱 I spend my free time working on personal projects and reading research papers and implementing them often! 
     - My most current list : [collection of papers](https://www.notion.so/Collection-of-research-2a03877c251480318177fbb7e837b7e3?source=copy_link)
 
+- 🔭 I’m currently working on **Data/ Applied AI Projects**
+
+- 🌱 I’m currently learning **NLP, Edge AI and High Performance ML**
+
+- 💬 Ask me about **NLP,Transformers,Big Data**
+
+- 📫 How to reach me **tandelsunidhi@gmail.com**
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sunidhit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunidhit" height="30" width="40" /></a>
+</p> 
+<br>
 
 ## Skills
 <p>
